@@ -6,7 +6,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{E737AD8B-2735-419D-94A2-E046BB19F80B}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>HelloWorld</RootNamespace>
     <AssemblyName>HelloWorld</AssemblyName>
@@ -66,6 +66,8 @@
     <Compile Include="BasicDataStructure\MyHeap.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sort\MergeSort.cs" />
+    <Compile Include="Sort\QuickSort.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
