@@ -8,7 +8,7 @@ namespace HelloWorld
 {
     /// <summary>
     /// </summary>
-    internal class ExtendMethod
+    public class ExtendMethod
     {
     }
 }

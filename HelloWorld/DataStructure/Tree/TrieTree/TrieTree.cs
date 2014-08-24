@@ -3,7 +3,7 @@
 //   
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
-namespace HelloWorld.AdvancedDataStructure.Tree.TrieTree
+namespace HelloWorld.DataStructure.Tree.TrieTree
 {
     using System.Collections.Generic;
 

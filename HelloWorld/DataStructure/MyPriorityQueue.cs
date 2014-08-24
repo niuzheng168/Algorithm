@@ -4,11 +4,9 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace HelloWorld.AdvancedDataStructure
+namespace HelloWorld.DataStructure
 {
     using System;
-
-    using HelloWorld.BasicDataStructure;
 
     /// <summary>
     /// </summary>

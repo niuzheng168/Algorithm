@@ -53,17 +53,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdvancedDataStructure\Base\TreeBase.cs" />
-    <Compile Include="AdvancedDataStructure\Base\TreeItemBase.cs" />
-    <Compile Include="AdvancedDataStructure\Interface\ITreeOperation.cs" />
-    <Compile Include="AdvancedDataStructure\Tree\TrieTree\TrieTree.cs" />
-    <Compile Include="AdvancedDataStructure\Tree\TrieTree\TrieTreeItem.cs" />
+    <Compile Include="DataStructure\Tree\TreeBase.cs" />
+    <Compile Include="DataStructure\Tree\TreeItemBase.cs" />
+    <Compile Include="DataStructure\Tree\TrieTree\TrieTree.cs" />
+    <Compile Include="DataStructure\Tree\TrieTree\TrieTreeItem.cs" />
+    <Compile Include="DataStructure\UnionFindSet.cs" />
     <Compile Include="ExtendMethod.cs" />
     <Compile Include="Helper.cs" />
-    <Compile Include="BasicDataStructure\MyLinkList.cs" />
-    <Compile Include="AdvancedDataStructure\MyPriorityQueue.cs" />
-    <Compile Include="BasicDataStructure\MyQueue.cs" />
-    <Compile Include="BasicDataStructure\MyHeap.cs" />
+    <Compile Include="DataStructure\MyLinkList.cs" />
+    <Compile Include="DataStructure\MyPriorityQueue.cs" />
+    <Compile Include="DataStructure\MyQueue.cs" />
+    <Compile Include="DataStructure\MyHeap.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sort\SortMethods.cs" />
@@ -72,6 +72,7 @@
     <None Include="app.config" />
     <None Include="Settings.StyleCop" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

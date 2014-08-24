@@ -4,7 +4,7 @@
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace HelloWorld.BasicDataStructure
+namespace HelloWorld.DataStructure
 {
     using System;
     using System.Text;

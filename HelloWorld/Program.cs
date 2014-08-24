@@ -1,4 +1,13 @@
-﻿namespace HelloWorld
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="Program.cs" company="">
+//   
+// </copyright>
+// <summary>
+//   Defines the Program type.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace HelloWorld
 {
     using System.Collections.Generic;
 

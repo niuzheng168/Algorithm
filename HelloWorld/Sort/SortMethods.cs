@@ -1,4 +1,13 @@
-﻿namespace HelloWorld.Sort
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="SortMethods.cs" company="">
+//   
+// </copyright>
+// <summary>
+//   The sort.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace HelloWorld.Sort
 {
     using System;
     using System.Collections.Generic;
